@@ -1,0 +1,9 @@
+/* FreshMart custom styles — edit freely */
+:root{color-scheme:light;--brand:#16a34a}
+html{scroll-behavior:smooth}
+body{background:#f4f7f4;color:#1f2937;font-family:"Poppins",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+/* Fix: form fields always readable (white bg, dark text) */
+input,textarea,select{background-color:#fff;color:#111827;font-family:inherit}
+input::placeholder,textarea::placeholder{color:#9ca3af;opacity:1}
+.no-scrollbar::-webkit-scrollbar{display:none}.no-scrollbar{scrollbar-width:none}
+.card{transition:transform .2s,box-shadow .2s}.card:hover{transform:translateY(-3px);box-shadow:0 12px 24px -10px rgba(22,163,74,.35)}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Online store with fast delivery and Cash on Delivery">
+<title>FreshMart – Online Grocery</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com/3.4.17"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app"></div>
+<div id="drawer" class="hidden fixed inset-0 z-50">
+  <div class="absolute inset-0 bg-black/50" onclick="toggleCart(false)"></div>
+  <div id="drawerBody" class="absolute right-0 top-0 h-full w-full max-w-md bg-white shadow-2xl flex flex-col"></div>
+</div>
+<div id="toast" class="hidden fixed bottom-6 left-1/2 -translate-x-1/2 z-[60] bg-gray-900 text-white px-5 py-3 rounded-xl shadow-lg text-sm"></div>
+<script src="admin.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

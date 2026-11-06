@@ -1,0 +1,57 @@
+{
+ "products": [
+  {
+   "id": "pmw4hes9nrcr",
+   "name": "Fayee 1:20 Scale 4WD RC Drift Racing Car with Lights & Remote Control",
+   "cat": "Toys",
+   "price": 900,
+   "oldPrice": 1000,
+   "unit": "",
+   "stock": 8,
+   "desc": "Enjoy exciting racing and drifting with the Fayee 1:20 Scale RC Racing Car. Featuring 4WD, bright front lights, underglow lighting, and a 2.4GHz remote control, it’s perfect for indoor racing fun. Includes extra racing wheels and obstacle cones for an enhanced play experience.",
+   "flash": true,
+   "featured": true,
+   "images": [
+    "uploads/mw4hdm48xlb8z.jpg",
+    "uploads/mw4hdzzu2aa7e.jpg"
+   ],
+   "createdAt": 1793939752855
+  },
+  {
+   "id": "pmw4hglwxb98",
+   "name": "Dodge Challenger SRT Hellcat App-Controlled 4WD RC Drift Car (1:20 Scale) with LED Underglow",
+   "cat": "Toys",
+   "price": 1300,
+   "oldPrice": 1200,
+   "unit": "",
+   "stock": 10,
+   "desc": "Experience exciting drifting action with the 1:20 Scale Black RC Drift Car – App-Controlled Version. Featuring a sleek black racing design, RGB underglow lights, proportional throttle control, and realistic racing details, it’s perfect for RC car enthusiasts and racing fun.",
+   "flash": false,
+   "featured": true,
+   "images": [
+    "uploads/mw4hgfk1t4r15.jpg",
+    "uploads/mw4hgj7snico2.jpg"
+   ],
+   "createdAt": 1793939837934
+  },
+  {
+   "id": "pmw4hi6q2ty8",
+   "name": "Anti gravity led desk lamp with wireless charger",
+   "cat": "Lighting & Lamps",
+   "price": 1700,
+   "oldPrice": 0,
+   "unit": "",
+   "stock": 7,
+   "desc": "Bring innovation and elegance to your workspace with the  Anti-Gravity Floating Lamp. Designed with a stunning Tensegrity-inspired floating structure, this premium LED desk lamp combines 10W Qi wireless charging, touch control, and eye-caring dimmable lighting in one modern smart accessory. Perfect for home, office, study desk, bedside, and workspace decoration.",
+   "flash": false,
+   "featured": true,
+   "images": [
+    "uploads/mw4hhxmxw73p1.jpg",
+    "uploads/mw4hhxn9xsrw2.jpg",
+    "uploads/mw4hhxnjdnane.jpg"
+   ],
+   "createdAt": 1793939911559
+  }
+ ],
+ "orders": []
+}
